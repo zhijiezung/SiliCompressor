@@ -3,7 +3,7 @@ apply plugin: 'com.jfrog.bintray'
 apply plugin: 'com.github.dcendents.android-maven'
 
 group = 'com.zhijiezung.silicompressorr'
-version = '2.2.2'
+version = '2.2.2.1'
 
 android {
     compileSdkVersion 28
@@ -11,7 +11,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 7
-        versionName "2.2.2"
+        versionName "2.2.2.1"
     }
     buildTypes {
         release {
