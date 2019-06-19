@@ -43,7 +43,7 @@ ext {
     siteUrl = 'https://github.com/zhijiezung/SiliCompressor'
     gitUrl = 'https://github.com/zhijiezung/SiliCompressor.git'
 
-    libraryVersion = '2.2.2'
+    libraryVersion = '2.2.2.1'
 
     developerId = 'zhijiezung'
     developerName = 'zhijiezung'
